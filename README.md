@@ -18,7 +18,7 @@
 
 ## Resumo do Projeto
 
-[translate:Desenvolvi este projeto no 2º semestre de 2025, como parte da Global Solution da disciplina Front-End Design – Web Development.
+Desenvolvi este projeto no 2º semestre de 2025, como parte da Global Solution da disciplina Front-End Design – Web Development.
 
 O tema foi:
 "O Futuro do Trabalho – Conectando pessoas, competências e propósito por meio da tecnologia."
@@ -40,10 +40,31 @@ A interface inclui:
 - Sistema de busca e filtros por área, cidade ou tecnologia
 - Dark Mode
 - Layout responsivo e estilizado com Tailwind CSS
-- Integração com JSON contendo mais de 60 perfis simulados]
+- Integração com JSON contendo mais de 60 perfis simulados
 
 ---
 
 ## Instalação
 
 1. Clone o repositório:
+git clone https://github.com/JessFlauzino/rede-profissional-gs.git
+
+2. Acesse a pasta do projeto
+
+cd seuprojeto
+
+3. Instale as dependências
+
+npm install
+
+4. Execute o projeto
+
+npm run dev
+
+---
+
+## Link do Repositório
+
+https://github.com/JessFlauzino/rede-profissional-gs.git
+
+---
