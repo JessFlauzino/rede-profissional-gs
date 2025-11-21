@@ -23,7 +23,7 @@ const jobs = [
 
 export default function Vagas() {
   return (
-    <div className="max-w-2xl mx-auto space-y-6 py-8 pt-20 px-4">
+    <div className="max-w-2xl mx-auto space-y-6 py-8 pt-20 px-4 bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-300">
       <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4 text-center sm:text-left">
         Vagas disponíveis
       </h2>
