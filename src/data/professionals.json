@@ -1,0 +1,1533 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento full-stack com foco em React e Node.js",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript", "MongoDB", "Docker"],
+    "softSkills": ["Comunicação", "Liderança", "Trabalho em equipe", "Resolução de problemas"],
+    "experiencias": [
+      { "empresa": "Tech Solutions", "cargo": "Senior Developer", "inicio": "2021-01", "fim": "Atual", "descricao": "Desenvolvimento de aplicações web escaláveis" },
+      { "empresa": "StartupXYZ", "cargo": "Full Stack Developer", "inicio": "2019-03", "fim": "2020-12", "descricao": "Criação de MVPs e protótipos" }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "USP", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "E-commerce Platform", "link": "https://github.com", "descricao": "Plataforma completa de vendas online" }
+    ],
+    "certificacoes": ["AWS Certified Developer", "React Advanced Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IA", "Cloud Computing", "Desenvolvimento Web"]
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Eduardo Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Designer UX/UI",
+    "resumo": "Criando experiências digitais memoráveis e centradas no usuário",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "Sketch", "Prototyping", "Design Systems"],
+    "softSkills": ["Criatividade", "Empatia", "Comunicação visual", "Pensamento crítico"],
+    "experiencias": [
+      { "empresa": "Design Studio", "cargo": "Lead UX Designer", "inicio": "2020-06", "fim": "Atual", "descricao": "Liderança de projetos de design" },
+      { "empresa": "Creative Agency", "cargo": "UI Designer", "inicio": "2018-01", "fim": "2020-05", "descricao": "Design de interfaces mobile e web" }
+    ],
+    "formacao": [
+      { "curso": "Design Gráfico", "instituicao": "UFRJ", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Banking App Redesign", "link": "https://behance.net", "descricao": "Redesign completo de aplicativo bancário" }
+    ],
+    "certificacoes": ["Google UX Design Professional", "Nielsen Norman Group UX Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" },
+      { "idioma": "Francês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Design Thinking", "Acessibilidade", "Mobile First"]
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Costa Oliveira",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Especialista em metodologias ágeis e gestão de equipes multidisciplinares",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Jira", "MS Project", "Agile"],
+    "softSkills": ["Liderança", "Negociação", "Organização", "Visão estratégica"],
+    "experiencias": [
+      { "empresa": "Tech Corp", "cargo": "Project Manager", "inicio": "2019-08", "fim": "Atual", "descricao": "Gestão de projetos de TI" }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "UFMG", "ano": 2016 }
+    ],
+    "projetos": [
+      { "titulo": "Digital Transformation Project", "link": "https://linkedin.com", "descricao": "Transformação digital de grande empresa" }
+    ],
+    "certificacoes": ["PMP", "Scrum Master Certified", "SAFe Agilist"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Alemão", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Transformação Digital", "Liderança", "Inovação"]
+  },
+  {
+    "id": 4,
+    "nome": "Pedro Henrique Souza",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Cientista de Dados",
+    "resumo": "Transformando dados em insights acionáveis com ML e IA",
+    "localizacao": "Curitiba/PR",
+    "area": "Data Science",
+    "habilidadesTecnicas": ["Python", "R", "TensorFlow", "SQL", "Tableau"],
+    "softSkills": ["Pensamento analítico", "Curiosidade", "Comunicação", "Colaboração"],
+    "experiencias": [
+      { "empresa": "Data Analytics Co", "cargo": "Senior Data Scientist", "inicio": "2020-03", "fim": "Atual", "descricao": "Desenvolvimento de modelos preditivos" }
+    ],
+    "formacao": [
+      { "curso": "MSc Data Science", "instituicao": "FIAP", "ano": 2020 }
+    ],
+    "projetos": [
+      { "titulo": "Customer Churn Prediction", "link": "https://github.com", "descricao": "Modelo de predição de churn" }
+    ],
+    "certificacoes": ["Google Data Analytics Professional", "AWS Machine Learning"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Machine Learning", "Big Data", "IA"]
+  },
+  {
+    "id": 5,
+    "nome": "Juliana Mendes Rocha",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Marketing Digital",
+    "resumo": "Estrategista digital com foco em crescimento e performance",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics", "Social Media", "CRM"],
+    "softSkills": ["Criatividade", "Comunicação", "Análise de dados", "Estratégia"],
+    "experiencias": [
+      { "empresa": "Marketing Hub", "cargo": "Digital Marketing Manager", "inicio": "2019-01", "fim": "Atual", "descricao": "Gestão de campanhas digitais" }
+    ],
+    "formacao": [
+      { "curso": "Publicidade e Propaganda", "instituicao": "PUCRS", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "E-commerce Growth Strategy", "link": "https://portfolio.com", "descricao": "Estratégia de crescimento para e-commerce" }
+    ],
+    "certificacoes": ["Google Ads Certified", "HubSpot Inbound Marketing"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Growth Hacking", "Performance Marketing", "SEO"]
+  },
+  {
+    "id": 6,
+    "nome": "Roberto Alves Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "DevOps Engineer",
+    "resumo": "Automatizando processos e otimizando infraestrutura cloud",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Docker", "Kubernetes", "Jenkins", "Terraform"],
+    "softSkills": ["Resolução de problemas", "Automação", "Trabalho em equipe", "Proatividade"],
+    "experiencias": [
+      { "empresa": "Cloud Solutions", "cargo": "DevOps Engineer", "inicio": "2020-02", "fim": "Atual", "descricao": "Implementação de CI/CD" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UnB", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Kubernetes Cluster Setup", "link": "https://github.com", "descricao": "Implementação de cluster K8s" }
+    ],
+    "certificacoes": ["AWS Solutions Architect", "Kubernetes Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Cloud Computing", "Automation", "Infrastructure as Code"]
+  },
+  {
+    "id": 7,
+    "nome": "Fernanda Ribeiro Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Product Owner",
+    "resumo": "Conectando visão de produto com necessidades do negócio",
+    "localizacao": "Florianópolis/SC",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Product Management", "User Stories", "Roadmapping", "Analytics", "A/B Testing"],
+    "softSkills": ["Visão estratégica", "Comunicação", "Negociação", "Empatia"],
+    "experiencias": [
+      { "empresa": "Product Tech", "cargo": "Product Owner", "inicio": "2019-07", "fim": "Atual", "descricao": "Gestão de backlog e roadmap" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Produção", "instituicao": "UFSC", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "SaaS Platform Launch", "link": "https://product.com", "descricao": "Lançamento de plataforma SaaS" }
+    ],
+    "certificacoes": ["Certified Scrum Product Owner", "Product Management Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Product Discovery", "User Experience", "Growth"]
+  },
+  {
+    "id": 8,
+    "nome": "Lucas Ferreira Almeida",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Criando aplicativos nativos e híbridos de alta performance",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React Native", "Flutter", "Swift", "Kotlin", "Firebase"],
+    "softSkills": ["Atenção aos detalhes", "Criatividade", "Trabalho em equipe", "Adaptabilidade"],
+    "experiencias": [
+      { "empresa": "Mobile First", "cargo": "Mobile Developer", "inicio": "2020-01", "fim": "Atual", "descricao": "Desenvolvimento de apps iOS e Android" }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "UFPE", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Fitness Tracking App", "link": "https://github.com", "descricao": "App de monitoramento fitness" }
+    ],
+    "certificacoes": ["Google Associate Android Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Mobile Development", "Cross-platform", "UI/UX"]
+  },
+  {
+    "id": 9,
+    "nome": "Camila Rodrigues Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Analista de Segurança",
+    "resumo": "Protegendo sistemas e dados com expertise em cybersecurity",
+    "localizacao": "Salvador/BA",
+    "area": "Segurança",
+    "habilidadesTecnicas": ["Penetration Testing", "SIEM", "Firewall", "Encryption", "Security Audit"],
+    "softSkills": ["Atenção aos detalhes", "Pensamento crítico", "Ética", "Comunicação"],
+    "experiencias": [
+      { "empresa": "SecureIT", "cargo": "Security Analyst", "inicio": "2019-05", "fim": "Atual", "descricao": "Análise de vulnerabilidades" }
+    ],
+    "formacao": [
+      { "curso": "Segurança da Informação", "instituicao": "UFBA", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Security Framework Implementation", "link": "https://security.com", "descricao": "Implementação de framework de segurança" }
+    ],
+    "certificacoes": ["CISSP", "CEH", "CompTIA Security+"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Cybersecurity", "Ethical Hacking", "Compliance"]
+  },
+  {
+    "id": 10,
+    "nome": "Rafael Santos Oliveira",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Desenhando arquiteturas escaláveis e resilientes",
+    "localizacao": "Campinas/SP",
+    "area": "Arquitetura",
+    "habilidadesTecnicas": ["Microservices", "Cloud Architecture", "API Design", "System Design", "AWS"],
+    "softSkills": ["Visão estratégica", "Liderança técnica", "Comunicação", "Mentoria"],
+    "experiencias": [
+      { "empresa": "Enterprise Tech", "cargo": "Solutions Architect", "inicio": "2018-09", "fim": "Atual", "descricao": "Design de arquiteturas complexas" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia da Computação", "instituicao": "UNICAMP", "ano": 2016 }
+    ],
+    "projetos": [
+      { "titulo": "Microservices Migration", "link": "https://architecture.com", "descricao": "Migração para microserviços" }
+    ],
+    "certificacoes": ["AWS Solutions Architect Professional", "TOGAF Certified"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Alemão", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Cloud Architecture", "Microservices", "System Design"]
+  },
+  {
+    "id": 11,
+    "nome": "Beatriz Almeida Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "QA Engineer",
+    "resumo": "Garantindo qualidade através de testes automatizados",
+    "localizacao": "Fortaleza/CE",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Selenium", "Jest", "Cypress", "Test Automation", "CI/CD"],
+    "softSkills": ["Atenção aos detalhes", "Organização", "Comunicação", "Paciência"],
+    "experiencias": [
+      { "empresa": "Quality Assurance Co", "cargo": "QA Engineer", "inicio": "2020-04", "fim": "Atual", "descricao": "Automação de testes" }
+    ],
+    "formacao": [
+      { "curso": "Análise e Desenvolvimento de Sistemas", "instituicao": "UFC", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Test Automation Framework", "link": "https://github.com", "descricao": "Framework de testes automatizados" }
+    ],
+    "certificacoes": ["ISTQB Certified", "Selenium WebDriver"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Test Automation", "Quality Assurance", "Continuous Testing"]
+  },
+  {
+    "id": 12,
+    "nome": "Thiago Martins Silva",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Backend Developer",
+    "resumo": "Desenvolvendo APIs robustas e escaláveis",
+    "localizacao": "Manaus/AM",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "PostgreSQL", "Redis", "Kafka"],
+    "softSkills": ["Lógica", "Resolução de problemas", "Trabalho em equipe", "Proatividade"],
+    "experiencias": [
+      { "empresa": "Backend Solutions", "cargo": "Backend Developer", "inicio": "2019-11", "fim": "Atual", "descricao": "Desenvolvimento de microserviços" }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "UFAM", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Payment Gateway API", "link": "https://github.com", "descricao": "API de gateway de pagamento" }
+    ],
+    "certificacoes": ["Oracle Certified Java Programmer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Backend Development", "Microservices", "Distributed Systems"]
+  },
+  {
+    "id": 13,
+    "nome": "Amanda Silva Ferreira",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Business Analyst",
+    "resumo": "Traduzindo necessidades de negócio em soluções tecnológicas",
+    "localizacao": "Goiânia/GO",
+    "area": "Análise",
+    "habilidadesTecnicas": ["SQL", "Power BI", "Business Intelligence", "Requirements Analysis", "Process Mapping"],
+    "softSkills": ["Comunicação", "Análise crítica", "Negociação", "Documentação"],
+    "experiencias": [
+      { "empresa": "Business Tech", "cargo": "Business Analyst", "inicio": "2019-03", "fim": "Atual", "descricao": "Análise de requisitos" }
+    ],
+    "formacao": [
+      { "curso": "Administração de Empresas", "instituicao": "UFG", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Process Optimization Project", "link": "https://business.com", "descricao": "Otimização de processos" }
+    ],
+    "certificacoes": ["CBAP", "Agile Analysis Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Business Analysis", "Process Improvement", "Data Analysis"]
+  },
+  {
+    "id": 14,
+    "nome": "Diego Costa Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Frontend Developer",
+    "resumo": "Criando interfaces modernas e responsivas",
+    "localizacao": "Vitória/ES",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Vue.js", "React", "CSS3", "HTML5", "JavaScript"],
+    "softSkills": ["Criatividade", "Atenção aos detalhes", "Colaboração", "Aprendizado contínuo"],
+    "experiencias": [
+      { "empresa": "Frontend Studio", "cargo": "Frontend Developer", "inicio": "2020-02", "fim": "Atual", "descricao": "Desenvolvimento de SPAs" }
+    ],
+    "formacao": [
+      { "curso": "Tecnologia em Sistemas para Internet", "instituicao": "UFES", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "E-commerce Frontend", "link": "https://github.com", "descricao": "Frontend de e-commerce" }
+    ],
+    "certificacoes": ["React Developer Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Frontend Development", "UI/UX", "Web Performance"]
+  },
+  {
+    "id": 15,
+    "nome": "Gabriela Rocha Oliveira",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Scrum Master",
+    "resumo": "Facilitando processos ágeis e empoderando times",
+    "localizacao": "Cuiabá/MT",
+    "area": "Agilidade",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Facilitation", "Jira", "Confluence"],
+    "softSkills": ["Facilitação", "Liderança servidora", "Comunicação", "Empatia"],
+    "experiencias": [
+      { "empresa": "Agile Company", "cargo": "Scrum Master", "inicio": "2019-06", "fim": "Atual", "descricao": "Facilitação de cerimônias ágeis" }
+    ],
+    "formacao": [
+      { "curso": "Gestão de TI", "instituicao": "UFMT", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Agile Transformation", "link": "https://agile.com", "descricao": "Transformação ágil organizacional" }
+    ],
+    "certificacoes": ["Certified Scrum Master", "SAFe Scrum Master"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Agile Methodologies", "Team Coaching", "Continuous Improvement"]
+  },
+  {
+    "id": 16,
+    "nome": "Henrique Lima Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Desenvolvendo modelos de IA para resolver problemas complexos",
+    "localizacao": "João Pessoa/PB",
+    "area": "IA",
+    "habilidadesTecnicas": ["Python", "PyTorch", "Scikit-learn", "NLP", "Computer Vision"],
+    "softSkills": ["Pensamento analítico", "Inovação", "Pesquisa", "Colaboração"],
+    "experiencias": [
+      { "empresa": "AI Lab", "cargo": "ML Engineer", "inicio": "2020-05", "fim": "Atual", "descricao": "Desenvolvimento de modelos de ML" }
+    ],
+    "formacao": [
+      { "curso": "MSc Inteligência Artificial", "instituicao": "UFPB", "ano": 2020 }
+    ],
+    "projetos": [
+      { "titulo": "Image Classification Model", "link": "https://github.com", "descricao": "Modelo de classificação de imagens" }
+    ],
+    "certificacoes": ["TensorFlow Developer Certificate", "Deep Learning Specialization"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Machine Learning", "Deep Learning", "AI Ethics"]
+  },
+  {
+    "id": 17,
+    "nome": "Isabela Fernandes Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Content Manager",
+    "resumo": "Criando estratégias de conteúdo que engajam e convertem",
+    "localizacao": "Natal/RN",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "Content Strategy", "CMS", "Google Analytics", "Copywriting"],
+    "softSkills": ["Criatividade", "Escrita", "Organização", "Estratégia"],
+    "experiencias": [
+      { "empresa": "Content Hub", "cargo": "Content Manager", "inicio": "2019-08", "fim": "Atual", "descricao": "Gestão de estratégia de conteúdo" }
+    ],
+    "formacao": [
+      { "curso": "Jornalismo", "instituicao": "UFRN", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Blog Strategy & Growth", "link": "https://content.com", "descricao": "Estratégia de crescimento de blog" }
+    ],
+    "certificacoes": ["HubSpot Content Marketing", "Google Analytics Certified"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Francês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Content Marketing", "SEO", "Digital Strategy"]
+  },
+  {
+    "id": 18,
+    "nome": "José Carlos Almeida",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Database Administrator",
+    "resumo": "Otimizando e gerenciando bancos de dados críticos",
+    "localizacao": "Aracaju/SE",
+    "area": "Banco de Dados",
+    "habilidadesTecnicas": ["Oracle", "MySQL", "PostgreSQL", "MongoDB", "Performance Tuning"],
+    "softSkills": ["Atenção aos detalhes", "Resolução de problemas", "Organização", "Proatividade"],
+    "experiencias": [
+      { "empresa": "Data Management Co", "cargo": "DBA", "inicio": "2018-10", "fim": "Atual", "descricao": "Administração de bancos de dados" }
+    ],
+    "formacao": [
+      { "curso": "Banco de Dados", "instituicao": "UFS", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Database Optimization Project", "link": "https://database.com", "descricao": "Otimização de performance de BD" }
+    ],
+    "certificacoes": ["Oracle Certified Professional", "MySQL Database Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Database Optimization", "Data Architecture", "High Availability"]
+  },
+  {
+    "id": 19,
+    "nome": "Larissa Souza Martins",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "UX Researcher",
+    "resumo": "Descobrindo insights através de pesquisa com usuários",
+    "localizacao": "Maceió/AL",
+    "area": "Design",
+    "habilidadesTecnicas": ["User Research", "Usability Testing", "Surveys", "Data Analysis", "Figma"],
+    "softSkills": ["Empatia", "Comunicação", "Análise", "Curiosidade"],
+    "experiencias": [
+      { "empresa": "Research Lab", "cargo": "UX Researcher", "inicio": "2019-09", "fim": "Atual", "descricao": "Pesquisa com usuários" }
+    ],
+    "formacao": [
+      { "curso": "Psicologia", "instituicao": "UFAL", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "User Research Study", "link": "https://research.com", "descricao": "Estudo de pesquisa com usuários" }
+    ],
+    "certificacoes": ["Nielsen Norman Group UX Research", "User Testing Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["User Research", "Behavioral Psychology", "Design Thinking"]
+  },
+  {
+    "id": 20,
+    "nome": "Marcelo Ribeiro Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Technical Writer",
+    "resumo": "Transformando complexidade técnica em documentação clara",
+    "localizacao": "Teresina/PI",
+    "area": "Documentação",
+    "habilidadesTecnicas": ["Technical Writing", "API Documentation", "Markdown", "Git", "Documentation Tools"],
+    "softSkills": ["Comunicação clara", "Organização", "Atenção aos detalhes", "Pesquisa"],
+    "experiencias": [
+      { "empresa": "Docs Company", "cargo": "Technical Writer", "inicio": "2019-04", "fim": "Atual", "descricao": "Criação de documentação técnica" }
+    ],
+    "formacao": [
+      { "curso": "Letras - Inglês", "instituicao": "UFPI", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "API Documentation Portal", "link": "https://docs.com", "descricao": "Portal de documentação de API" }
+    ],
+    "certificacoes": ["Technical Writing Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Technical Writing", "Documentation", "Information Architecture"]
+  },
+  {
+    "id": 21,
+    "nome": "Natália Pereira Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Sales Engineer",
+    "resumo": "Conectando soluções técnicas com necessidades de negócio",
+    "localizacao": "São Luís/MA",
+    "area": "Vendas",
+    "habilidadesTecnicas": ["Pre-Sales", "Technical Presentations", "Solution Design", "CRM", "Product Demos"],
+    "softSkills": ["Comunicação", "Persuasão", "Conhecimento técnico", "Relacionamento"],
+    "experiencias": [
+      { "empresa": "Sales Tech", "cargo": "Sales Engineer", "inicio": "2019-07", "fim": "Atual", "descricao": "Suporte técnico em vendas" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UFMA", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Enterprise Solution Demos", "link": "https://sales.com", "descricao": "Demonstrações de soluções enterprise" }
+    ],
+    "certificacoes": ["AWS Solutions Architect", "Salesforce Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Pre-Sales", "Technical Sales", "Solution Architecture"]
+  },
+  {
+    "id": 22,
+    "nome": "Otávio Silva Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Network Engineer",
+    "resumo": "Projetando e mantendo infraestruturas de rede robustas",
+    "localizacao": "Palmas/TO",
+    "area": "Redes",
+    "habilidadesTecnicas": ["Cisco", "Network Security", "CCNA", "Routing", "Switching"],
+    "softSkills": ["Resolução de problemas", "Atenção aos detalhes", "Trabalho sob pressão", "Organização"],
+    "experiencias": [
+      { "empresa": "Network Solutions", "cargo": "Network Engineer", "inicio": "2019-02", "fim": "Atual", "descricao": "Administração de redes" }
+    ],
+    "formacao": [
+      { "curso": "Redes de Computadores", "instituicao": "UFT", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Network Infrastructure Upgrade", "link": "https://network.com", "descricao": "Upgrade de infraestrutura de rede" }
+    ],
+    "certificacoes": ["CCNA", "CCNP", "CompTIA Network+"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Network Engineering", "Network Security", "SD-WAN"]
+  },
+  {
+    "id": 23,
+    "nome": "Patrícia Costa Almeida",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "HR Tech Specialist",
+    "resumo": "Inovando processos de RH através da tecnologia",
+    "localizacao": "Campo Grande/MS",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["HR Systems", "People Analytics", "HRIS", "Talent Management", "Data Analysis"],
+    "softSkills": ["Empatia", "Comunicação", "Inovação", "Análise de dados"],
+    "experiencias": [
+      { "empresa": "HR Innovation", "cargo": "HR Tech Specialist", "inicio": "2019-05", "fim": "Atual", "descricao": "Implementação de soluções de RH" }
+    ],
+    "formacao": [
+      { "curso": "Gestão de Recursos Humanos", "instituicao": "UFMS", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "HR Digital Transformation", "link": "https://hr.com", "descricao": "Transformação digital de RH" }
+    ],
+    "certificacoes": ["SHRM-CP", "People Analytics Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["HR Technology", "People Analytics", "Digital Transformation"]
+  },
+  {
+    "id": 24,
+    "nome": "Quintino Ferreira Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Blockchain Developer",
+    "resumo": "Desenvolvendo aplicações descentralizadas e smart contracts",
+    "localizacao": "Boa Vista/RR",
+    "area": "Blockchain",
+    "habilidadesTecnicas": ["Solidity", "Ethereum", "Web3.js", "Smart Contracts", "DeFi"],
+    "softSkills": ["Inovação", "Pesquisa", "Resolução de problemas", "Aprendizado contínuo"],
+    "experiencias": [
+      { "empresa": "Blockchain Lab", "cargo": "Blockchain Developer", "inicio": "2020-03", "fim": "Atual", "descricao": "Desenvolvimento de dApps" }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "UFRR", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "DeFi Protocol", "link": "https://github.com", "descricao": "Protocolo DeFi em Ethereum" }
+    ],
+    "certificacoes": ["Certified Blockchain Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Blockchain", "DeFi", "Web3"]
+  },
+  {
+    "id": 25,
+    "nome": "Renata Oliveira Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "IT Support Specialist",
+    "resumo": "Oferecendo suporte técnico de excelência aos usuários",
+    "localizacao": "Macapá/AP",
+    "area": "Suporte",
+    "habilidadesTecnicas": ["Windows", "Linux", "Troubleshooting", "Active Directory", "Help Desk"],
+    "softSkills": ["Paciência", "Comunicação", "Resolução de problemas", "Empatia"],
+    "experiencias": [
+      { "empresa": "IT Support Co", "cargo": "IT Support Specialist", "inicio": "2019-01", "fim": "Atual", "descricao": "Suporte técnico N2" }
+    ],
+    "formacao": [
+      { "curso": "Tecnologia da Informação", "instituicao": "UNIFAP", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "IT Support Process Improvement", "link": "https://support.com", "descricao": "Melhoria de processos de suporte" }
+    ],
+    "certificacoes": ["CompTIA A+", "ITIL Foundation"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IT Support", "System Administration", "User Experience"]
+  },
+  {
+    "id": 26,
+    "nome": "Samuel Costa Rodrigues",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Game Developer",
+    "resumo": "Criando experiências interativas e imersivas",
+    "localizacao": "Rio Branco/AC",
+    "area": "Games",
+    "habilidadesTecnicas": ["Unity", "C#", "Unreal Engine", "3D Modeling", "Game Design"],
+    "softSkills": ["Criatividade", "Paixão por games", "Trabalho em equipe", "Persistência"],
+    "experiencias": [
+      { "empresa": "Game Studio", "cargo": "Game Developer", "inicio": "2019-06", "fim": "Atual", "descricao": "Desenvolvimento de jogos indie" }
+    ],
+    "formacao": [
+      { "curso": "Jogos Digitais", "instituicao": "UFAC", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Adventure RPG Game", "link": "https://games.com", "descricao": "Jogo RPG de aventura" }
+    ],
+    "certificacoes": ["Unity Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Game Development", "Virtual Reality", "Game Design"]
+  },
+  {
+    "id": 27,
+    "nome": "Tatiana Almeida Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Cloud Architect",
+    "resumo": "Desenhando soluções cloud escaláveis e resilientes",
+    "localizacao": "Porto Velho/RO",
+    "area": "Cloud",
+    "habilidadesTecnicas": ["AWS", "Azure", "GCP", "Cloud Migration", "Infrastructure as Code"],
+    "softSkills": ["Visão estratégica", "Liderança", "Comunicação", "Inovação"],
+    "experiencias": [
+      { "empresa": "Cloud Experts", "cargo": "Cloud Architect", "inicio": "2019-04", "fim": "Atual", "descricao": "Arquitetura de soluções cloud" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia da Computação", "instituicao": "UNIR", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Multi-Cloud Architecture", "link": "https://cloud.com", "descricao": "Arquitetura multi-cloud" }
+    ],
+    "certificacoes": ["AWS Solutions Architect Professional", "Azure Solutions Architect"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Cloud Computing", "Multi-Cloud", "Cloud Migration"]
+  },
+  {
+    "id": 28,
+    "nome": "Ulisses Ferreira Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "IoT Engineer",
+    "resumo": "Conectando dispositivos e criando soluções inteligentes",
+    "localizacao": "São Paulo/SP",
+    "area": "IoT",
+    "habilidadesTecnicas": ["Arduino", "Raspberry Pi", "MQTT", "Python", "Edge Computing"],
+    "softSkills": ["Inovação", "Resolução de problemas", "Criatividade", "Pesquisa"],
+    "experiencias": [
+      { "empresa": "IoT Solutions", "cargo": "IoT Engineer", "inicio": "2019-08", "fim": "Atual", "descricao": "Desenvolvimento de soluções IoT" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia Elétrica", "instituicao": "Politécnica USP", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Smart Home System", "link": "https://iot.com", "descricao": "Sistema de casa inteligente" }
+    ],
+    "certificacoes": ["AWS IoT Specialty"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IoT", "Edge Computing", "Smart Cities"]
+  },
+  {
+    "id": 29,
+    "nome": "Valéria Santos Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Legal Tech Specialist",
+    "resumo": "Inovando o setor jurídico através da tecnologia",
+    "localizacao": "Brasília/DF",
+    "area": "Legal Tech",
+    "habilidadesTecnicas": ["Legal Research", "Contract Analysis", "LegalTech Tools", "Data Analysis", "Compliance"],
+    "softSkills": ["Análise crítica", "Atenção aos detalhes", "Ética", "Comunicação"],
+    "experiencias": [
+      { "empresa": "LegalTech Co", "cargo": "Legal Tech Specialist", "inicio": "2019-09", "fim": "Atual", "descricao": "Implementação de soluções jurídicas digitais" }
+    ],
+    "formacao": [
+      { "curso": "Direito", "instituicao": "UnB", "ano": 2017 },
+      { "curso": "MBA Legal Tech", "instituicao": "FGV", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Contract Automation System", "link": "https://legaltech.com", "descricao": "Sistema de automação de contratos" }
+    ],
+    "certificacoes": ["Legal Tech Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Legal Tech", "Compliance", "Digital Transformation"]
+  },
+  {
+    "id": 30,
+    "nome": "Wagner Oliveira Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "E-learning Developer",
+    "resumo": "Criando experiências de aprendizado digital engajadoras",
+    "localizacao": "Curitiba/PR",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Articulate Storyline", "Moodle", "SCORM", "Instructional Design", "Video Editing"],
+    "softSkills": ["Criatividade", "Didática", "Comunicação", "Empatia"],
+    "experiencias": [
+      { "empresa": "EdTech Company", "cargo": "E-learning Developer", "inicio": "2019-03", "fim": "Atual", "descricao": "Desenvolvimento de cursos online" }
+    ],
+    "formacao": [
+      { "curso": "Pedagogia", "instituicao": "UFPR", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Online Course Platform", "link": "https://elearning.com", "descricao": "Plataforma de cursos online" }
+    ],
+    "certificacoes": ["Instructional Design Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["E-learning", "Instructional Design", "EdTech"]
+  },
+  {
+    "id": 31,
+    "nome": "Ximena Rodrigues Silva",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Robotic Process Automation Developer",
+    "resumo": "Automatizando processos com RPA para eficiência operacional",
+    "localizacao": "São Paulo/SP",
+    "area": "Automação",
+    "habilidadesTecnicas": ["UiPath", "Blue Prism", "Automation Anywhere", "Python", "Process Mining"],
+    "softSkills": ["Análise de processos", "Resolução de problemas", "Organização", "Inovação"],
+    "experiencias": [
+      { "empresa": "Automation Co", "cargo": "RPA Developer", "inicio": "2019-10", "fim": "Atual", "descricao": "Desenvolvimento de bots RPA" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Produção", "instituicao": "FEI", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Invoice Processing Automation", "link": "https://rpa.com", "descricao": "Automação de processamento de faturas" }
+    ],
+    "certificacoes": ["UiPath Advanced Developer", "Blue Prism Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["RPA", "Process Automation", "Digital Transformation"]
+  },
+  {
+    "id": 32,
+    "nome": "Yuri Costa Almeida",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Voice User Interface Designer",
+    "resumo": "Desenhando experiências conversacionais para assistentes de voz",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Alexa Skills", "Google Actions", "Voice Design", "Conversation Design", "Natural Language"],
+    "softSkills": ["Criatividade", "Empatia", "Comunicação", "Pesquisa"],
+    "experiencias": [
+      { "empresa": "Voice Tech", "cargo": "VUI Designer", "inicio": "2020-01", "fim": "Atual", "descricao": "Design de interfaces de voz" }
+    ],
+    "formacao": [
+      { "curso": "Design de Interação", "instituicao": "PUC-Rio", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Voice Assistant for Banking", "link": "https://voice.com", "descricao": "Assistente de voz para banco" }
+    ],
+    "certificacoes": ["Voice Design Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Voice Design", "Conversational AI", "Natural Language Processing"]
+  },
+  {
+    "id": 33,
+    "nome": "Zilda Silva Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Fintech Product Manager",
+    "resumo": "Liderando inovação em produtos financeiros digitais",
+    "localizacao": "São Paulo/SP",
+    "area": "Fintech",
+    "habilidadesTecnicas": ["Product Management", "Fintech", "Payment Systems", "Banking APIs", "Regulatory Compliance"],
+    "softSkills": ["Visão estratégica", "Liderança", "Negociação", "Inovação"],
+    "experiencias": [
+      { "empresa": "Digital Bank", "cargo": "Product Manager", "inicio": "2019-05", "fim": "Atual", "descricao": "Gestão de produtos fintech" }
+    ],
+    "formacao": [
+      { "curso": "Economia", "instituicao": "FGV", "ano": 2016 },
+      { "curso": "MBA Fintech", "instituicao": "Insper", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Digital Wallet Launch", "link": "https://fintech.com", "descricao": "Lançamento de carteira digital" }
+    ],
+    "certificacoes": ["Product Management Certificate", "Fintech Specialization"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Mandarim", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Fintech", "Digital Banking", "Payment Innovation"]
+  },
+  {
+    "id": 34,
+    "nome": "Alexandre Ferreira Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Site Reliability Engineer",
+    "resumo": "Garantindo confiabilidade e performance de sistemas em produção",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "SRE",
+    "habilidadesTecnicas": ["Kubernetes", "Prometheus", "Grafana", "Terraform", "Python"],
+    "softSkills": ["Resolução de problemas", "Trabalho sob pressão", "Proatividade", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Cloud Platform", "cargo": "SRE", "inicio": "2019-07", "fim": "Atual", "descricao": "Manutenção de sistemas críticos" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "UFMG", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "High Availability System", "link": "https://sre.com", "descricao": "Sistema de alta disponibilidade" }
+    ],
+    "certificacoes": ["Google Professional Cloud Architect", "Kubernetes Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["SRE", "DevOps", "Cloud Infrastructure"]
+  },
+  {
+    "id": 35,
+    "nome": "Bianca Oliveira Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "AR/VR Developer",
+    "resumo": "Criando experiências imersivas em realidade aumentada e virtual",
+    "localizacao": "São Paulo/SP",
+    "area": "AR/VR",
+    "habilidadesTecnicas": ["Unity", "Unreal Engine", "ARKit", "ARCore", "3D Modeling"],
+    "softSkills": ["Criatividade", "Inovação", "Trabalho em equipe", "Paixão por tecnologia"],
+    "experiencias": [
+      { "empresa": "Immersive Tech", "cargo": "AR/VR Developer", "inicio": "2020-02", "fim": "Atual", "descricao": "Desenvolvimento de apps AR/VR" }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "USP", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "VR Training Simulator", "link": "https://vr.com", "descricao": "Simulador de treinamento em VR" }
+    ],
+    "certificacoes": ["Unity Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["AR/VR", "Metaverse", "Immersive Technologies"]
+  },
+  {
+    "id": 36,
+    "nome": "Cláudio Santos Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "ETL Developer",
+    "resumo": "Construindo pipelines de dados robustos e escaláveis",
+    "localizacao": "Campinas/SP",
+    "area": "Data Engineering",
+    "habilidadesTecnicas": ["SQL", "Python", "Apache Airflow", "Spark", "Data Warehousing"],
+    "softSkills": ["Lógica", "Atenção aos detalhes", "Resolução de problemas", "Organização"],
+    "experiencias": [
+      { "empresa": "Data Engineering Co", "cargo": "ETL Developer", "inicio": "2019-06", "fim": "Atual", "descricao": "Desenvolvimento de pipelines ETL" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Dados", "instituicao": "UNICAMP", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Real-time Data Pipeline", "link": "https://data.com", "descricao": "Pipeline de dados em tempo real" }
+    ],
+    "certificacoes": ["AWS Certified Data Analytics"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Data Engineering", "Big Data", "Real-time Processing"]
+  },
+  {
+    "id": 37,
+    "nome": "Daniela Costa Ferreira",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Accessibility Specialist",
+    "resumo": "Tornando a web mais inclusiva e acessível para todos",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Acessibilidade",
+    "habilidadesTecnicas": ["WCAG", "ARIA", "Screen Readers", "Accessibility Testing", "HTML/CSS"],
+    "softSkills": ["Empatia", "Atenção aos detalhes", "Comunicação", "Advocacia"],
+    "experiencias": [
+      { "empresa": "Inclusive Tech", "cargo": "Accessibility Specialist", "inicio": "2019-04", "fim": "Atual", "descricao": "Consultoria em acessibilidade" }
+    ],
+    "formacao": [
+      { "curso": "Tecnologia da Informação", "instituicao": "PUCRS", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Accessibility Audit Tool", "link": "https://a11y.com", "descricao": "Ferramenta de auditoria de acessibilidade" }
+    ],
+    "certificacoes": ["IAAP Certified Professional", "WCAG 2.1 Specialist"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Web Accessibility", "Inclusive Design", "Assistive Technology"]
+  },
+  {
+    "id": 38,
+    "nome": "Eduardo Lima Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Green Tech Specialist",
+    "resumo": "Desenvolvendo soluções tecnológicas sustentáveis",
+    "localizacao": "Curitiba/PR",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": ["Carbon Footprint Analysis", "Energy Optimization", "Sustainable Computing", "IoT", "Data Analysis"],
+    "softSkills": ["Consciência ambiental", "Inovação", "Pesquisa", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Green Tech Solutions", "cargo": "Green Tech Specialist", "inicio": "2020-01", "fim": "Atual", "descricao": "Desenvolvimento de soluções verdes" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia Ambiental", "instituicao": "UFPR", "ano": 2018 },
+      { "curso": "MBA Sustentabilidade", "instituicao": "FGV", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Energy Monitoring System", "link": "https://greentech.com", "descricao": "Sistema de monitoramento de energia" }
+    ],
+    "certificacoes": ["Green IT Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Green Tech", "Sustainable Computing", "Environmental Tech"]
+  },
+  {
+    "id": 39,
+    "nome": "Fabiana Rodrigues Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Quantum Computing Researcher",
+    "resumo": "Explorando o futuro da computação quântica",
+    "localizacao": "São Paulo/SP",
+    "area": "Computação Quântica",
+    "habilidadesTecnicas": ["Qiskit", "Quantum Algorithms", "Python", "Linear Algebra", "Quantum Physics"],
+    "softSkills": ["Pensamento abstrato", "Pesquisa", "Curiosidade", "Persistência"],
+    "experiencias": [
+      { "empresa": "Quantum Lab", "cargo": "Quantum Researcher", "inicio": "2020-03", "fim": "Atual", "descricao": "Pesquisa em computação quântica" }
+    ],
+    "formacao": [
+      { "curso": "PhD Física Quântica", "instituicao": "USP", "ano": 2020 }
+    ],
+    "projetos": [
+      { "titulo": "Quantum Algorithm Implementation", "link": "https://quantum.com", "descricao": "Implementação de algoritmos quânticos" }
+    ],
+    "certificacoes": ["IBM Quantum Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Alemão", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Quantum Computing", "Quantum Algorithms", "Future Technologies"]
+  },
+  {
+    "id": 40,
+    "nome": "Gustavo Almeida Silva",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Agritech Developer",
+    "resumo": "Inovando a agricultura através da tecnologia",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Agritech",
+    "habilidadesTecnicas": ["IoT", "Data Analytics", "Machine Learning", "Drone Technology", "Precision Agriculture"],
+    "softSkills": ["Inovação", "Pensamento sistêmico", "Pesquisa", "Colaboração"],
+    "experiencias": [
+      { "empresa": "Agritech Solutions", "cargo": "Agritech Developer", "inicio": "2019-08", "fim": "Atual", "descricao": "Desenvolvimento de soluções agrícolas" }
+    ],
+    "formacao": [
+      { "curso": "Agronomia", "instituicao": "ESALQ/USP", "ano": 2017 },
+      { "curso": "MBA Agronegócio Digital", "instituicao": "FGV", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Crop Monitoring System", "link": "https://agritech.com", "descricao": "Sistema de monitoramento de culturas" }
+    ],
+    "certificacoes": ["Precision Agriculture Specialist"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Agritech", "Precision Agriculture", "IoT in Agriculture"]
+  },
+  {
+    "id": 41,
+    "nome": "Helena Santos Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Healthtech Product Designer",
+    "resumo": "Desenhando produtos digitais que salvam vidas",
+    "localizacao": "São Paulo/SP",
+    "area": "Healthtech",
+    "habilidadesTecnicas": ["UX Design", "Healthcare UX", "HIPAA Compliance", "Medical Devices", "Telemedicine"],
+    "softSkills": ["Empatia", "Atenção aos detalhes", "Ética", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Digital Health", "cargo": "Product Designer", "inicio": "2019-09", "fim": "Atual", "descricao": "Design de produtos de saúde digital" }
+    ],
+    "formacao": [
+      { "curso": "Design", "instituicao": "ESPM", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Telemedicine App", "link": "https://healthtech.com", "descricao": "Aplicativo de telemedicina" }
+    ],
+    "certificacoes": ["Healthcare UX Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Healthtech", "Digital Health", "Medical UX"]
+  },
+  {
+    "id": 42,
+    "nome": "Igor Costa Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Computer Vision Engineer",
+    "resumo": "Ensinando máquinas a ver e interpretar o mundo",
+    "localizacao": "Campinas/SP",
+    "area": "Computer Vision",
+    "habilidadesTecnicas": ["OpenCV", "Deep Learning", "PyTorch", "Image Processing", "Object Detection"],
+    "softSkills": ["Pensamento analítico", "Inovação", "Pesquisa", "Persistência"],
+    "experiencias": [
+      { "empresa": "Vision AI", "cargo": "Computer Vision Engineer", "inicio": "2020-02", "fim": "Atual", "descricao": "Desenvolvimento de sistemas de visão computacional" }
+    ],
+    "formacao": [
+      { "curso": "MSc Computer Vision", "instituicao": "UNICAMP", "ano": 2020 }
+    ],
+    "projetos": [
+      { "titulo": "Face Recognition System", "link": "https://github.com", "descricao": "Sistema de reconhecimento facial" }
+    ],
+    "certificacoes": ["Deep Learning Specialization"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Computer Vision", "Deep Learning", "Object Detection"]
+  },
+  {
+    "id": 43,
+    "nome": "Júlia Ferreira Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "No-Code Platform Developer",
+    "resumo": "Democratizando o desenvolvimento através de no-code",
+    "localizacao": "Florianópolis/SC",
+    "area": "No-Code",
+    "habilidadesTecnicas": ["Bubble", "Webflow", "Airtable", "Zapier", "No-Code Automation"],
+    "softSkills": ["Criatividade", "Solução de problemas", "Aprendizado rápido", "Comunicação"],
+    "experiencias": [
+      { "empresa": "No-Code Studio", "cargo": "No-Code Developer", "inicio": "2019-10", "fim": "Atual", "descricao": "Desenvolvimento de aplicações no-code" }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "UFSC", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Marketplace Platform", "link": "https://nocode.com", "descricao": "Plataforma marketplace em no-code" }
+    ],
+    "certificacoes": ["Bubble Developer Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["No-Code", "Automation", "Rapid Prototyping"]
+  },
+  {
+    "id": 44,
+    "nome": "Kleber Oliveira Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Web3 Developer",
+    "resumo": "Construindo o futuro descentralizado da internet",
+    "localizacao": "São Paulo/SP",
+    "area": "Web3",
+    "habilidadesTecnicas": ["Solidity", "Web3.js", "Ethereum", "IPFS", "DeFi"],
+    "softSkills": ["Inovação", "Pensamento descentralizado", "Pesquisa", "Colaboração"],
+    "experiencias": [
+      { "empresa": "Web3 Lab", "cargo": "Web3 Developer", "inicio": "2020-01", "fim": "Atual", "descricao": "Desenvolvimento de dApps" }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "IME/USP", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Decentralized Exchange", "link": "https://github.com", "descricao": "DEX em Ethereum" }
+    ],
+    "certificacoes": ["Certified Blockchain Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Web3", "Blockchain", "Decentralization"]
+  },
+  {
+    "id": 45,
+    "nome": "Luana Santos Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Edtech Developer",
+    "resumo": "Transformando educação através da tecnologia",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Edtech",
+    "habilidadesTecnicas": ["React", "Learning Management Systems", "Gamification", "Analytics", "Mobile Development"],
+    "softSkills": ["Paixão por educação", "Empatia", "Criatividade", "Comunicação"],
+    "experiencias": [
+      { "empresa": "EdTech Startup", "cargo": "Edtech Developer", "inicio": "2019-07", "fim": "Atual", "descricao": "Desenvolvimento de plataformas educacionais" }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "UFMG", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Adaptive Learning Platform", "link": "https://edtech.com", "descricao": "Plataforma de aprendizado adaptativo" }
+    ],
+    "certificacoes": ["Instructional Design Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Edtech", "Learning Analytics", "Gamification"]
+  },
+  {
+    "id": 46,
+    "nome": "Márcio Costa Almeida",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Proptech Developer",
+    "resumo": "Inovando o mercado imobiliário com tecnologia",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Proptech",
+    "habilidadesTecnicas": ["Full Stack Development", "Real Estate Tech", "Property Management Systems", "React", "Node.js"],
+    "softSkills": ["Visão de negócio", "Inovação", "Comunicação", "Resolução de problemas"],
+    "experiencias": [
+      { "empresa": "Proptech Solutions", "cargo": "Proptech Developer", "inicio": "2019-11", "fim": "Atual", "descricao": "Desenvolvimento de soluções imobiliárias digitais" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "PUC-Rio", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Property Management Platform", "link": "https://proptech.com", "descricao": "Plataforma de gestão imobiliária" }
+    ],
+    "certificacoes": ["AWS Solutions Architect"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Proptech", "Real Estate Innovation", "Digital Transformation"]
+  },
+  {
+    "id": 47,
+    "nome": "Natasha Lima Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Insurtech Product Manager",
+    "resumo": "Revolucionando seguros através da tecnologia",
+    "localizacao": "São Paulo/SP",
+    "area": "Insurtech",
+    "habilidadesTecnicas": ["Product Management", "Insurance Tech", "Risk Analysis", "Data Analytics", "Digital Transformation"],
+    "softSkills": ["Visão estratégica", "Análise de risco", "Negociação", "Liderança"],
+    "experiencias": [
+      { "empresa": "Digital Insurance", "cargo": "Product Manager", "inicio": "2019-06", "fim": "Atual", "descricao": "Gestão de produtos insurtech" }
+    ],
+    "formacao": [
+      { "curso": "Economia", "instituicao": "FGV", "ano": 2016 },
+      { "curso": "MBA Insurtech", "instituicao": "Insper", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Digital Insurance Platform", "link": "https://insurtech.com", "descricao": "Plataforma de seguros digital" }
+    ],
+    "certificacoes": ["Product Management Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Insurtech", "Digital Insurance", "Risk Management"]
+  },
+  {
+    "id": 48,
+    "nome": "Orlando Costa Ferreira",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Cybersecurity Analyst",
+    "resumo": "Defendendo sistemas contra ameaças cibernéticas",
+    "localizacao": "Brasília/DF",
+    "area": "Segurança",
+    "habilidadesTecnicas": ["Security Operations", "Threat Detection", "Incident Response", "SIEM", "Security Frameworks"],
+    "softSkills": ["Atenção aos detalhes", "Pensamento crítico", "Trabalho sob pressão", "Ética"],
+    "experiencias": [
+      { "empresa": "Cybersecurity Firm", "cargo": "Security Analyst", "inicio": "2019-05", "fim": "Atual", "descricao": "Análise de segurança e resposta a incidentes" }
+    ],
+    "formacao": [
+      { "curso": "Segurança da Informação", "instituicao": "UnB", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Security Monitoring System", "link": "https://security.com", "descricao": "Sistema de monitoramento de segurança" }
+    ],
+    "certificacoes": ["CEH", "CISSP", "Security+"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Cybersecurity", "Threat Intelligence", "Incident Response"]
+  },  
+  {
+    "id": 49,
+    "nome": "Priscila Santos Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Conversation Designer",
+    "resumo": "Criando diálogos naturais entre humanos e máquinas",
+    "localizacao": "São Paulo/SP",
+    "area": "Conversational AI",
+    "habilidadesTecnicas": ["Conversational Design", "Chatbots", "Natural Language Processing", "Dialog Flow", "Voice Assistants"],
+    "softSkills": ["Criatividade", "Empatia", "Comunicação", "Pesquisa de usuário"],
+    "experiencias": [
+      { "empresa": "Conversational AI Co", "cargo": "Conversation Designer", "inicio": "2019-12", "fim": "Atual", "descricao": "Design de experiências conversacionais" }
+    ],
+    "formacao": [
+      { "curso": "Linguística", "instituicao": "USP", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Customer Service Chatbot", "link": "https://chatbot.com", "descricao": "Chatbot de atendimento ao cliente" }
+    ],
+    "certificacoes": ["Conversation Design Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Francês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Conversational AI", "Natural Language", "Chatbot Design"]
+  },
+  {
+    "id": 50,
+    "nome": "Quirino Lima Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Salesforce Developer",
+    "resumo": "Customizando e otimizando soluções Salesforce",
+    "localizacao": "São Paulo/SP",
+    "area": "CRM",
+    "habilidadesTecnicas": ["Apex", "Visualforce", "Lightning Components", "Salesforce APIs", "Integration"],
+    "softSkills": ["Solução de problemas", "Atenção aos detalhes", "Comunicação", "Análise de negócio"],
+    "experiencias": [
+      { "empresa": "Salesforce Partner", "cargo": "Salesforce Developer", "inicio": "2019-04", "fim": "Atual", "descricao": "Desenvolvimento e customização Salesforce" }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "Mackenzie", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Sales Automation Solution", "link": "https://salesforce.com", "descricao": "Solução de automação de vendas" }
+    ],
+    "certificacoes": ["Salesforce Certified Developer", "Salesforce Architect"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Salesforce", "CRM", "Sales Automation"]
+  },
+  {
+    "id": 51,
+    "nome": "Roberta Costa Silva",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Data Privacy Officer",
+    "resumo": "Garantindo conformidade com LGPD e proteção de dados",
+    "localizacao": "São Paulo/SP",
+    "area": "Privacidade",
+    "habilidadesTecnicas": ["LGPD", "GDPR", "Privacy Compliance", "Data Protection", "Security Frameworks"],
+    "softSkills": ["Ética", "Atenção aos detalhes", "Comunicação", "Análise de risco"],
+    "experiencias": [
+      { "empresa": "Legal Tech Co", "cargo": "DPO", "inicio": "2019-08", "fim": "Atual", "descricao": "Gestão de privacidade e proteção de dados" }
+    ],
+    "formacao": [
+      { "curso": "Direito", "instituicao": "FGV", "ano": 2016 },
+      { "curso": "Especialização LGPD", "instituicao": "PUC", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Privacy Compliance Program", "link": "https://privacy.com", "descricao": "Programa de conformidade LGPD" }
+    ],
+    "certificacoes": ["CIPM", "CIPP/E"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Alemão", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Data Privacy", "LGPD", "Compliance"]
+  },
+  {
+    "id": 52,
+    "nome": "Sérgio Almeida Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "API Developer",
+    "resumo": "Construindo APIs robustas e bem documentadas",
+    "localizacao": "Porto Alegre/RS",
+    "area": "API Development",
+    "habilidadesTecnicas": ["REST API", "GraphQL", "API Design", "OpenAPI", "Microservices"],
+    "softSkills": ["Atenção aos detalhes", "Documentação", "Comunicação", "Arquitetura"],
+    "experiencias": [
+      { "empresa": "API Platform", "cargo": "API Developer", "inicio": "2019-09", "fim": "Atual", "descricao": "Desenvolvimento de APIs enterprise" }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "PUCRS", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Public API Platform", "link": "https://api.com", "descricao": "Plataforma de APIs públicas" }
+    ],
+    "certificacoes": ["API Architect Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["API Development", "API Design", "Microservices"]
+  },
+  {
+    "id": 53,
+    "nome": "Tânia Lima Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Digital Transformation Consultant",
+    "resumo": "Liderando transformações digitais em organizações",
+    "localizacao": "São Paulo/SP",
+    "area": "Consultoria",
+    "habilidadesTecnicas": ["Digital Strategy", "Change Management", "Technology Consulting", "Business Analysis", "Innovation"],
+    "softSkills": ["Liderança", "Visão estratégica", "Comunicação", "Influência"],
+    "experiencias": [
+      { "empresa": "Consulting Firm", "cargo": "Digital Transformation Consultant", "inicio": "2019-03", "fim": "Atual", "descricao": "Consultoria em transformação digital" }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "FGV", "ano": 2015 },
+      { "curso": "MBA Digital Business", "instituicao": "Insper", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Enterprise Digital Transformation", "link": "https://consulting.com", "descricao": "Transformação digital enterprise" }
+    ],
+    "certificacoes": ["Digital Transformation Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Digital Transformation", "Innovation", "Change Management"]
+  },
+  {
+    "id": 54,
+    "nome": "Ubirajara Santos Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Performance Engineer",
+    "resumo": "Otimizando performance e experiência de aplicações",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Performance",
+    "habilidadesTecnicas": ["Performance Testing", "Load Testing", "JMeter", "Performance Optimization", "Monitoring"],
+    "softSkills": ["Análise crítica", "Atenção aos detalhes", "Resolução de problemas", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Performance Testing Co", "cargo": "Performance Engineer", "inicio": "2019-10", "fim": "Atual", "descricao": "Testes e otimização de performance" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UFMG", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Application Performance Optimization", "link": "https://performance.com", "descricao": "Otimização de performance de aplicações" }
+    ],
+    "certificacoes": ["Performance Testing Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Performance Engineering", "Load Testing", "Optimization"]
+  },
+  {
+    "id": 55,
+    "nome": "Viviane Costa Almeida",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Customer Success Manager",
+    "resumo": "Garantindo sucesso e satisfação dos clientes",
+    "localizacao": "São Paulo/SP",
+    "area": "Customer Success",
+    "habilidadesTecnicas": ["Customer Success Management", "SaaS", "CRM", "Data Analysis", "Account Management"],
+    "softSkills": ["Empatia", "Comunicação", "Relacionamento", "Resolução de problemas"],
+    "experiencias": [
+      { "empresa": "SaaS Company", "cargo": "Customer Success Manager", "inicio": "2019-05", "fim": "Atual", "descricao": "Gestão de sucesso do cliente" }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "ESPM", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Customer Success Program", "link": "https://cs.com", "descricao": "Programa de sucesso do cliente" }
+    ],
+    "certificacoes": ["Customer Success Manager Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Customer Success", "Customer Experience", "Account Management"]
+  },
+  {
+    "id": 56,
+    "nome": "Wesley Lima Santos",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Integration Engineer",
+    "resumo": "Conectando sistemas e plataformas de forma eficiente",
+    "localizacao": "Curitiba/PR",
+    "area": "Integração",
+    "habilidadesTecnicas": ["API Integration", "ETL", "Middleware", "iPaaS", "System Integration"],
+    "softSkills": ["Resolução de problemas", "Análise de sistemas", "Comunicação", "Documentação"],
+    "experiencias": [
+      { "empresa": "Integration Solutions", "cargo": "Integration Engineer", "inicio": "2019-11", "fim": "Atual", "descricao": "Desenvolvimento de integrações" }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "UFPR", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Enterprise Integration Platform", "link": "https://integration.com", "descricao": "Plataforma de integração enterprise" }
+    ],
+    "certificacoes": ["Integration Specialist Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["System Integration", "API Integration", "Middleware"]
+  },
+  {
+    "id": 57,
+    "nome": "Yasmin Costa Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Growth Hacker",
+    "resumo": "Impulsionando crescimento através de estratégias data-driven",
+    "localizacao": "São Paulo/SP",
+    "area": "Growth",
+    "habilidadesTecnicas": ["Growth Strategies", "A/B Testing", "Analytics", "SEO/SEM", "Conversion Optimization"],
+    "softSkills": ["Criatividade", "Análise de dados", "Experimentação", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Growth Startup", "cargo": "Growth Hacker", "inicio": "2019-07", "fim": "Atual", "descricao": "Estratégias de crescimento" }
+    ],
+    "formacao": [
+      { "curso": "Marketing", "instituicao": "ESPM", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "User Acquisition Strategy", "link": "https://growth.com", "descricao": "Estratégia de aquisição de usuários" }
+    ],
+    "certificacoes": ["Growth Hacking Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Growth Hacking", "User Acquisition", "Conversion Optimization"]
+  },
+  {
+    "id": 58,
+    "nome": "Zaíra Santos Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Compliance Analyst",
+    "resumo": "Garantindo conformidade regulatória e ética empresarial",
+    "localizacao": "Brasília/DF",
+    "area": "Compliance",
+    "habilidadesTecnicas": ["Regulatory Compliance", "Risk Assessment", "Audit", "Governance", "Policy Development"],
+    "softSkills": ["Ética", "Atenção aos detalhes", "Análise crítica", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Compliance Corp", "cargo": "Compliance Analyst", "inicio": "2019-06", "fim": "Atual", "descricao": "Análise de conformidade regulatória" }
+    ],
+    "formacao": [
+      { "curso": "Direito", "instituicao": "UnB", "ano": 2016 },
+      { "curso": "Especialização Compliance", "instituicao": "FGV", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Compliance Management System", "link": "https://compliance.com", "descricao": "Sistema de gestão de compliance" }
+    ],
+    "certificacoes": ["Certified Compliance Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Compliance", "Risk Management", "Corporate Governance"]
+  },
+  {
+    "id": 59,
+    "nome": "André Ferreira Lima",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "DevSecOps Engineer",
+    "resumo": "Integrando segurança em todo o ciclo de desenvolvimento",
+    "localizacao": "São Paulo/SP",
+    "area": "DevSecOps",
+    "habilidadesTecnicas": ["Security Automation", "CI/CD Security", "Container Security", "SAST/DAST", "Kubernetes Security"],
+    "softSkills": ["Segurança primeiro", "Automação", "Colaboração", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Security Platform", "cargo": "DevSecOps Engineer", "inicio": "2020-01", "fim": "Atual", "descricao": "Implementação de DevSecOps" }
+    ],
+    "formacao": [
+      { "curso": "Segurança da Informação", "instituicao": "FIAP", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Security Pipeline Implementation", "link": "https://devsecops.com", "descricao": "Implementação de pipeline de segurança" }
+    ],
+    "certificacoes": ["Certified DevSecOps Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["DevSecOps", "Security Automation", "Cloud Security"]
+  },
+  {
+    "id": 60,
+    "nome": "Bruna Silva Costa",
+    "foto": "https://placehold.co/400x400",
+    "cargo": "Digital Product Owner",
+    "resumo": "Liderando produtos digitais de sucesso",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto Digital",
+    "habilidadesTecnicas": ["Product Management", "User Stories", "Agile", "Product Analytics", "Roadmapping"],
+    "softSkills": ["Visão de produto", "Liderança", "Negociação", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Digital Products Co", "cargo": "Product Owner", "inicio": "2019-08", "fim": "Atual", "descricao": "Gestão de produtos digitais" }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Produção", "instituicao": "UFRJ", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Digital Platform Launch", "link": "https://product.com", "descricao": "Lançamento de plataforma digital" }
+    ],
+    "certificacoes": ["Certified Scrum Product Owner", "Product Management Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Digital Products", "Product Strategy", "User Experience"]
+  }
+]
+
+
+
+
+
