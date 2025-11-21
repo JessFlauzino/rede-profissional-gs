@@ -1,5 +1,6 @@
 import { EyeIcon, UsersIcon, BriefcaseIcon } from '@heroicons/react/24/outline';
 import Card from '../components/Card';
+import { Link } from 'react-router-dom';
 
 export default function LeftSidebar() {
   return (
@@ -35,11 +36,13 @@ export default function LeftSidebar() {
             </div>
             <span className="font-semibold text-blue-400">60</span>
           </div>
-          <button
+          <Link
+            to="/profissionais"
             className="block w-full mt-3 px-4 py-2 rounded-lg bg-white dark:bg-black border border-gray-200 dark:border-gray-800 
-                    text-gray-900 dark:text-white font-medium shadow-xl text-center hover:bg-gray-100 dark:hover:bg-gray-950 transition">
+              text-gray-900 dark:text-white font-medium shadow-xl text-center hover:bg-gray-100 dark:hover:bg-gray-950 transition"
+          >
             Gerenciar sua rede
-          </button>
+          </Link>
         </div>
 
         <div className="px-4 py-3 rounded-lg bg-white dark:bg-black shadow-xl border border-gray-200 dark:border-gray-800">
@@ -54,7 +57,8 @@ export default function LeftSidebar() {
               bg-white dark:bg-black
               border border-gray-200 dark:border-gray-800
               text-yellow-600 dark:text-yellow-400 font-medium shadow-xl text-center
-              hover:bg-yellow-50 dark:hover:bg-gray-950 transition flex items-center justify-center gap-2">
+              hover:bg-yellow-50 dark:hover:bg-gray-950 transition flex items-center justify-center gap-2"
+          >
             <span>Teste grátis</span>
           </button>
         </div>
