@@ -15,6 +15,7 @@ const posts = [
   {
     id: 1,
     author: 'Aline Green',
+    avatar: 'https://randomuser.me/api/portraits/women/65.jpg',
     time: '2 h',
     text: 'Jornada de startup é cheia de altos e baixos. Persistência vence!',
     tags: ['#design', '#startup'],
@@ -24,6 +25,7 @@ const posts = [
   {
     id: 2,
     author: 'Alex Frazier',
+    avatar: 'https://randomuser.me/api/portraits/men/76.jpg',
     time: '5 h',
     text: 'Tip do dia: componha seus layouts em camadas usando tokens.',
     tags: ['#frontend', '#uiux'],
@@ -37,20 +39,25 @@ export default function Feed() {
     <div className="space-y-4">
       
       <Card className="p-4">
-        <div className="flex items-center gap-3">
-          <div className="h-10 w-10 rounded-full bg-gradient-to-br from-violet-500 to-blue-600" />
-          <input
-            className="flex-1 rounded-full border border-gray-200 dark:border-white/10 bg-white dark:bg-surface-dark px-4 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-gray-900 dark:text-white"
-            placeholder="Comece uma publicação?"
-          />
-        </div>
-        <div className="mt-3 flex items-center justify-between flex-wrap gap-2">
+       <div className="flex items-center gap-3">
+      <div className="h-10 w-10 rounded-full bg-gray-600 ring-2 ring-gray-700 overflow-hidden">
+        <img
+          src="https://randomuser.me/api/portraits/men/75.jpg"
+          alt="Denis Barros"
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <input
+        className="flex-1 rounded-full border border-gray-200 dark:border-white/10 bg-white dark:bg-surface-dark px-4 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-gray-900 dark:text-white"
+        placeholder="Comece uma publicação?"
+      />
+    </div>
+        <div className="mt-3 flex justify-center">
           <div className="flex items-center gap-2">
             <ComposerButton icon={<PhotoIcon className="h-5 w-5 text-blue-600" />} text="Imagem" />
-            <ComposerButton icon={<VideoCameraIcon className="h-5 w-5 text-green-600" />} text="Vídeo" />            
+            <ComposerButton icon={<VideoCameraIcon className="h-5 w-5 text-green-600" />} text="Vídeo" />
             <ComposerButton icon={<PencilSquareIcon className="h-5 w-5 text-orange-600" />} text="Artigo" />
           </div>
-          
         </div>
       </Card>
 
@@ -76,7 +83,13 @@ function PostCard({ post }) {
     <Card className="overflow-hidden">
       <div className="p-4">
         <div className="flex items-start gap-3">
-          <div className="h-10 w-10 rounded-full bg-gray-300 dark:bg-gray-600" />
+          <div className="h-10 w-10 rounded-full bg-gray-300 dark:bg-gray-600 overflow-hidden">
+            <img
+              src={post.avatar}
+              alt={post.author}
+              className="w-full h-full object-cover"
+            />
+          </div>
           <div className="flex-1">
             <div className="flex items-center justify-between">
               <div>
