@@ -48,8 +48,8 @@ export default function Feed() {
         />
       </div>
       <input
-        className="flex-1 rounded-full border border-gray-200 dark:border-white/10 bg-white dark:bg-surface-dark px-4 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-gray-900 dark:text-white"
-        placeholder="Comece uma publicação?"
+        className="flex-1 rounded-full border border-gray-200 dark:border-white/10 bg-white dark:bg-surface-dark px-4 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-300"
+        placeholder="Comece uma publicação"
       />
     </div>
         <div className="mt-3 flex justify-center">
