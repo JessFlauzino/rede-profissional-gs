@@ -23,7 +23,7 @@ const jobs = [
 
 export default function Vagas() {
   return (
-    <div className="max-w-2xl mx-auto space-y-6 py-8">
+    <div className="max-w-2xl mx-auto space-y-6 py-8 pt-20">
       <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Vagas disponíveis</h2>
       {jobs.map((job) => (
         <Card key={job.id} className="p-5 flex gap-6 items-center">
