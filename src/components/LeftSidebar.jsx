@@ -6,13 +6,15 @@ export default function LeftSidebar() {
     <Card className="p-0">
       
       <div className="flex items-center gap-3 justify-center pt-6 pb-3">
-        
         <div className="h-16 w-16 rounded-full bg-gray-600 ring-2 ring-gray-700 overflow-hidden">
-          
+          <img
+            src="https://randomuser.me/api/portraits/men/75.jpg"
+            alt="Foto de perfil"
+            className="w-full h-full object-cover"
+          />
         </div>
-        
         <div className="text-left">
-          <h3 className="font-bold text-lg text-gray-900 dark:text-white">Denis Bujupaj</h3>
+          <h3 className="font-bold text-lg text-gray-900 dark:text-white">Denis Barros</h3>
           <p className="text-xs text-gray-500 dark:text-gray-300">Designer UI/UX Sênior</p>
         </div>
       </div>
@@ -34,7 +36,7 @@ export default function LeftSidebar() {
               <UsersIcon className="w-5 h-5 text-gray-300" />
               <span className="font-medium text-gray-900 dark:text-white">Conexões</span>
             </div>
-            <span className="font-semibold text-blue-400">1.7k</span>
+            <span className="font-semibold text-blue-400">60</span>
           </div>
           <button
             className="block w-full mt-3 px-4 py-2 rounded-lg bg-white dark:bg-black border border-gray-200 dark:border-gray-800 
